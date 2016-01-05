@@ -1,5 +1,6 @@
 Python per Tutti
 --------------------
+#####(Versione Italiana)
 
 Benvenuti al libro in lavorazione "Python per Tutti".
 
