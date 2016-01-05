@@ -10,7 +10,12 @@ Credits
 Edizioni a stampa
 -----------------
 
-20-Dic-2015 Conversione iniziale in boza a Python 3.X
+20-Dic-2015 Conversione iniziale in bozza a Python 3.X
+ 
+ 5-Gen-2016 Inizio riversamento versione italiana di Mauro Toselli *et
+ al* su GitHub [^a cura di Giovanni De Gasperis . Molti capitoli sono ancora in
+ inglese e vengono sostituiti dai rispettivi in italiano
+ progressivamente]
 
 Dettagli sul Copyright
 ----------------------
@@ -32,7 +37,7 @@ tutto il contenuto in lavorazione completamente visibile.
 Se sei interessato a dare un contributo nella conversione, 
 leggi le istruzioni su
 
-http://www.pythonlearn.com/book/
+[http://www.pythonlearn.com/book](http://www.pythonlearn.com/book)
 
 Il tuo contributo sarà molto apprezzato e tutti avranno il dovuto
 riconoscimento nel libro pubblicato.
