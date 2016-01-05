@@ -1,7 +1,7 @@
-Contributions
+Contributi
 =============
 
-Contributor List for "Python for Informatics" {#contributor-list-for-python-for-informatics .unnumbered}
+Lista dei Collaboratori a "Python for Informatics" {#contributor-list-for-python-for-informatics .unnumbered}
 ---------------------------------------------
 
 Bruce Shields for copy editing early drafts, Sarah Hegge, Steven Cherry,
@@ -14,128 +14,135 @@ Thomas Strassel, Ryan Clement, Alissa Talley, Caitlin Holman, Yong-Mi
 Kim, Karen Stover, Cherie Edmonds, Maria Seiferle, Romer Kristi D.
 Aranas (RK), Grant Boyer, Hedemarrie Dussan,
 
-Preface for "Think Python" {#preface-for-think-python .unnumbered}
+Prefazione per "Think Python" {#preface-for-think-python .unnumbered}
 --------------------------
 
-### The strange history of "Think Python" {#the-strange-history-of-think-python .unnumbered}
+### La strana storia di "Think Python" {#the-strange-history-of-think-python .unnumbered}
 
 (Allen B. Downey)
 
-In January 1999 I was preparing to teach an introductory programming
-class in Java. I had taught it three times and I was getting frustrated.
-The failure rate in the class was too high and, even for students who
-succeeded, the overall level of achievement was too low.
+Nel Gennaio 1999 mi stavo preparando a tenere un corso introduttivo
+sulla programmazione in Java. Lo avevo già tenuto tre volte ed ero
+frustrato. La percentuale di fallimento del corso era molto alta ed
+anche gli studenti che completavano il corso con successo il livello
+generale era troppo basso.
 
-One of the problems I saw was the books. They were too big, with too
-much unnecessary detail about Java, and not enough high-level guidance
-about how to program. And they all suffered from the trap door effect:
-they would start out easy, proceed gradually, and then somewhere around
-Chapter 5 the bottom would fall out. The students would get too much new
-material, too fast, and I would spend the rest of the semester picking
-up the pieces.
+Uno dei problemi che avevo notato erano i libri di testo. Troppo
+voluminosi, con troppi dettagli non necessari su Java e non abbastanza
+istruzioni di alto livello su come scrivere i programmi. E tutti
+risentivano dell’ effetto botola: cominciavano tranquillamente,
+procedevano gradualmente e circa al Capitolo 5 la botola si apriva e in
+molti vi cadevano. Gli studenti si ritrovavano con troppo materiale
+nuovo, tutto insieme e troppo in fretta e io dovevo spendere il resto
+del semestre a rimettere insieme i pezzi.
 
-Two weeks before the first day of classes, I decided to write my own
-book. My goals were:
+Due settimane prima dell’inizio del corso, ho deciso di scrivere un
+libro di testo. I miei obiettivi erano:
 
--   Keep it short. It is better for students to read 10 pages than not
-    read 50 pages.
+-   Essere conciso. Per gli studenti è molto meglio leggere 10 pagine
+    che non leggerne 50.
 
--   Be careful with vocabulary. I tried to minimize the jargon and
-    define each term at first use.
+-   Prestare attenzione al vocabolario. Ho certato di minizzare il gergo
+    e definire ogni termine sin dal primo uso.
 
--   Build gradually. To avoid trap doors, I took the most difficult
-    topics and split them into a series of small steps.
+-   Procedere gradualmente. Per evitare trappole ho preso gli argomenti
+    più difficili e li ho separati in piccoli passi.
 
--   Focus on programming, not the programming language. I included the
-    minimum useful subset of Java and left out the rest.
+-   Focalizzarsi sulla programmazione, non sul linguaggio. Ho incluso la
+    minima selezione utile di Java ed ho lasciato fuori il resto.
 
-I needed a title, so on a whim I chose *How to Think Like a Computer
-Scientist*.
-
-My first version was rough, but it worked. Students did the reading, and
-they understood enough that I could spend class time on the hard topics,
-the interesting topics and (most important) letting the students
-practice.
-
-I released the book under the GNU Free Documentation License, which
-allows users to copy, modify, and distribute the book.
-
-\index{GNU Free Documentation License}
-\index{Free Documentation License, GNU}
-
-What happened next is the cool part. Jeff Elkner, a high school teacher
-in Virginia, adopted my book and translated it into Python. He sent me a
-copy of his translation, and I had the unusual experience of learning
-Python by reading my own book.
-
-Jeff and I revised the book, incorporated a case study by Chris Meyers,
-and in 2001 we released *How to Think Like a Computer Scientist:
-Learning with Python*, also under the GNU Free Documentation License. As
-Green Tea Press, I published the book and started selling hard copies
-through Amazon.com and college book stores. Other books from Green Tea
-Press are available at [greenteapress.com](greenteapress.com).
-
-In 2003 I started teaching at Olin College and I got to teach Python for
-the first time. The contrast with Java was striking. Students struggled
-less, learned more, worked on more interesting projects, and generally
-had a lot more fun.
-
-Over the last five years I have continued to develop the book,
-correcting errors, improving some of the examples and adding material,
-especially exercises. In 2008 I started work on a major revision—at the
-same time, I was contacted by an editor at Cambridge University Press
-who was interested in publishing the next edition. Good timing!
-
-I hope you enjoy working with this book, and that it helps you learn to
-program and think, at least a little bit, like a computer scientist.
-
-### Acknowledgements for "Think Python" {#acknowledgements-for-think-python .unnumbered}
-
-(Allen B. Downey)
-
-First and most importantly, I thank Jeff Elkner, who translated my Java
-book into Python, which got this project started and introduced me to
-what has turned out to be my favorite language.
-
-I also thank Chris Meyers, who contributed several sections to *How to
-Think Like a Computer Scientist*.
-
-And I thank the Free Software Foundation for developing the GNU Free
-Documentation License, which helped make my collaboration with Jeff and
-Chris possible.
-
-\index{GNU Free Documentation License}
-\index{Free Documentation License, GNU}
-
-I also thank the editors at Lulu who worked on *How to Think Like a
+Mi serviva un titolo e quasi per scherzo ho scelto *How to Think Like a
 Computer Scientist*.
 
-I thank all the students who worked with earlier versions of this book
-and all the contributors (listed in an Appendix) who sent in corrections
-and suggestions.
+La prima versione era grezza ma funzionava. Gli studenti leggevano e
+capivano annastanza per fare in modo che spendessi il tempo in classe
+sugli argomenti più ostici, importanti e principalmente facendo far
+pratica agli studenti.
 
-And I thank my wife, Lisa, for her work on this book, and Green Tea
-Press, and everything else, too.
+Ho rilasciato il libro sotto GNU Free Documentation License, che
+permette agli utenti di copiare, modificare e ridistribuire il libro.
 
-Allen B. Downey\
-Needham MA\
+\index{GNU Free Documentation License}
+\index{Free Documentation License, GNU}
 
-Allen Downey is an Associate Professor of Computer Science at the
-Franklin W. Olin College of Engineering.
+Quello che è successo dopo è la parte migliore. Jeff Elkner, un
+insegnate di scuola superiore in Virginia, ha adottato il mio libro e lo
+ha tradotto per Python. Mi ha inviato una copia del suo riadattamento ed
+ho avuto la strana esperienza dell’impararare Python leggendo il mio
+stesso libro.
 
-Contributor List for "Think Python" {#contributor-list-for-think-python .unnumbered}
+Jeff ed io abbiamo rivisto il libro, incorporato uno studio di
+ChrisMeyers, e nel 2001 abbiamo rilasciato *How to Think Like a Computer
+Scientist: Learning with Python*, anch’esso sotto GNU Free Documentation
+License. Come Green Tea Press, ho pubblicato il libro ed iniziato a
+venderne copie via Amazon.com e la libreria del college. Altri libri di
+Green Tea Press sono disponibili su
+[greenteapress.com](greenteapress.com).
+
+Nel 2003 ho iniziato a insegnare all’Olin College ed ho insegnato Python
+per la prima volta. Il contrasto con Java era inmpressionante. Gli
+studenti avevano meno difficoltà, imparavano di più, lavoravano a
+progetti più interessanti e, in generale, si divertivano molto di più.
+
+Nei seguenti 5 anni ho continuato a sviluppare il libro, correggere gli
+errori, migliorare gli esempi e ad aggiungere materiale, specialmente
+gli esercizi. Nel 2008 ho iniziato a lavorare ad una importante
+revisione e allo stesso tempo sono stato contattato da un editore alla
+Cambridge University Press che era intenzionato a pubblicare la nuova
+versione del libro. Tempismo eccellente!
+
+Spero che apprezzerete lavorando con questo libro, che vi aiuterà ad
+imparare a programmare ed a pensare, almeno un pò, come uno Scienziato
+dell'Informazione.
+
+### Ringraziamenti per "Think Python" {#acknowledgements-for-think-python .unnumbered}
+
+(Allen B. Downey)
+
+Prima di tutto, ringrazio Jeff Elkner, che ha tradotto il mio libro su
+Java in Python, che dato il via a questo progetto e che mi ha introdotto
+a quello che sarebbe diventato il mio linguaggio favorito..
+
+Ringrazio anche Chris Meyers, che ha contribuito a molte sezioni di *How
+to Think Like a Computer Scientist*.
+
+E ringrazio la Free Software Foundation per aver sviluppato la GNU Free
+Documentation License, che ha reso la mia collaborazione con Jeff e
+Chris possibile.
+
+\index{GNU Free Documentation License}
+\index{Free Documentation License, GNU}
+
+Ringrazio inoltre i redattori di Lulu che hanno lavorato su *How to
+Think Like a Computer Scientist*.
+
+Ringrazio tutti gli studenti che hanno lavorato alle prime versioni di
+questo libro e tutti coloro che hanno contribuito (elencati in
+Appendice) e che mi hanno spedito le correzioni e suggerimenti.
+
+E ringrazio mia moglie Lisa per il suo lavoro su questo libro, Green Tea
+Press, e tutti gli altri. 
+
+Allen B. Downey \
+Needham MA \
+
+Allen Downey è
+Associate Professor of Computer Science al Franklin W. Olin College of
+Engineering.
+
+Lista dei Collaboratori di "Think Python" {#contributor-list-for-think-python .unnumbered}
 -----------------------------------
 
 \index{contributors}
 
 (Allen B. Downey)
 
-More than 100 sharp-eyed and thoughtful readers have sent in suggestions
-and corrections over the past few years. Their contributions, and
-enthusiasm for this project, have been a huge help.
+Più di 100 lettori super attenti e competenti hanno inviato suggerimenti
+e correzioni negli ultimi anni. I loro contributi, ed entusiasmo per
+questo progetto, hanno dato un enorme aiuto.
 
-For the detail on the nature of each of the contributions from these
-individuals, see the "Think Python" text.
+Per i dettagli sulla natura di ciascun contributo da questi individui,
+fare riferimento al testo *Think Python*.
 
 Lloyd Hugh Allen, Yvon Boulianne, Fred Bremmer, Jonah Cohen, Michael
 Conlon, Benoit Girard, Courtney Gleason and Katherine Smith, Lee Harr,
