@@ -1,34 +1,36 @@
-Python for Everybody
+Python per Tutti
 --------------------
 
-Welcome to the under-construction book "Python for Everybody".
+Benvenuti al libro in lavorazione "Python per Tutti".
 
-While this book is under construction, it is copyright, all rights reserved
-Charles R. Severance.  Once the book is in better shape I will move it back
-to Creative Commons.
+Mentre questo libro è in lavorazione, tutti i diritti sono ricervati 
+(copyright, all rights reserved)  Charles R. Severance.  
+QUando il libro sarà ad un livello migliore lo sposterò in licenza 
+Creative Commons.
 
-These \*.mkd files are now the master files for the book (i.e. 
-I will not run the conversion any more).
+Questi \*.mkd file sono adesso i file di origine per i libro (ovvero
+non farò più conversioni)
 
-To produce the book run
+Per produrre il libro esegui
 
     bash book.sh
 
-The output `bash book.sh` is in the file `x.pdf` and `x.epub`.
+Il risultato di `bash book.sh` è nel file `x.pdf` e `x.epub`.
 
-If you want to contribute, feel free to fork the pythonlearn
-repository and send me pull requests.   
+Se vuoi contribuire, sentiti libero di eseguire un *fork* di questo *repository*
+ed inviami delle *pull requests*.
 
-https://github.com/csev/pythonlearn
+https://github.com/csev/pythonlearn   per la versione in _inglese_
+https://github.com/giodegas/pythonlearn   per la versione in _italiano_
 
-We can also use the issue tracker to coordinate if that helps.
+Possiamo anche usare il sistema di tracciamento delle *issue* per coordinarci se ci aiuta.
 
-This is a very rough conversion.  I wrote several Python programs
-(see the convert folder) to go through the LaTeX, hack it, extract 
-anything that looked like code, run it through 2to3 and put in the 
-converted book.  So some of the code is converted perfectly but 
-other bits are still broken or Python 2.0 because my auto-process
-missed something.   We will fix those by hand.
+Questa è una conversione in forma di bozza ancora molto *primitiva* .
+Ho scritto diversi programmi Python (vedi la cartella convert) per poi passare a LaTeX,
+manipolalo, estrai qualsiasi cosa che sembri codice, eseguilo tramite 2to3 e ottieni 
+il libro convertito. In questo modo parte del codice è convertito perfettamente, ma altre 
+porzioni sono ancora errate o Python 2.X visto che il mio processo automatica si perde qualcosa.
+Lo sistemeremo manualmente.
 
 /Chuck
 
