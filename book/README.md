@@ -6,7 +6,7 @@ Benvenuti al libro in lavorazione "Python per Tutti".
 
 Mentre questo libro è in lavorazione, tutti i diritti sono ricervati 
 (copyright, all rights reserved)  Charles R. Severance.  
-QUando il libro sarà ad un livello migliore lo sposterò in licenza 
+Quando il libro sarà ad un livello migliore lo sposterò in licenza 
 Creative Commons.
 
 Questi \*.mkd file sono adesso i file di origine per i libro (ovvero
