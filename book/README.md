@@ -20,8 +20,9 @@ Il risultato di `bash book.sh` è nel file `x.pdf` e `x.epub`.
 Se vuoi contribuire, sentiti libero di eseguire un *fork* di questo *repository*
 ed inviami delle *pull requests*.
 
-https://github.com/csev/pythonlearn   per la versione in _inglese_
-https://github.com/giodegas/pythonlearn   per la versione in _italiano_
+https://github.com/csev/pythonlearn   per la versione in _inglese_ 
+
+https://github.com/giodegas/pythonlearn   per la versione in _italiano_ 
 
 Possiamo anche usare il sistema di tracciamento delle *issue* per coordinarci se ci aiuta.
 
@@ -33,4 +34,5 @@ porzioni sono ancora errate o Python 2.X visto che il mio processo automatica si
 Lo sistemeremo manualmente.
 
 /Chuck
-
+&
+/Giovanni
